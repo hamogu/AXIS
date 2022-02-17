@@ -109,7 +109,7 @@ def revision_status(filename, status=None):
 
     out = out + '''{nbstatus}
 
-This document is git version controlled. The repository is available at https://github.com/hamogu/PUT_PATH_IN_HERE.
+This document is git version controlled. The repository is available at https://github.com/hamogu/AXIS.
 See git commit log for full revision history.
 
 Code was last run with:
