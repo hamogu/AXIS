@@ -1,0 +1,24 @@
+# Latex and associated build scripts intermediate files
+*.bbl
+*.aux
+*.blg
+*.log
+*.lot
+*.fls
+*.fdb_latexmk
+*.out
+*.lof
+
+# Mac preview
+.DS_Store
+
+#backups
+*.bak
+*~
+
+# Python and notebooks
+*pyc
+.ipynb_checkpoints
+
+# my processing for website
+nb_proc
